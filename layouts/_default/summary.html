@@ -1,0 +1,27 @@
+{{ $dateFormat := default "Mon Jan 2, 2006" .Site.Params.DateFormat }}
+{{ $author :=  .Params.author | default .Site.Params.author }}
+{{ $featured_image := .Params.featured_image }}
+{{ $summary := .Params.summary }}
+
+<article class="mb-5 post">
+  <header>
+    {{ if $featured_image }} <p><img style="padding: 0 15px; float: left;" width="120" height="120" src="{{ $featured_image }}"></p> {{ end }}
+    <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
+
+    <div class="post-meta">{{ if .Site.Params.ShowDate }}<span class="byline-icon fa fa-clock-o" aria-hidden="true"></span> <span class="screen-reader-text">{{ i18n "date" }}: </span><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> - {{ end }}{{ if $author }}
+    <span class="byline-icon fa fa-user" aria-hidden="true"></span><span class="screen-reader-text">{{ i18n "author" }}: </span> {{ $author }} - {{ end }}
+    {{ if $summary }} {{ $summary }} {{ end }}
+   </div>
+   <br/>
+  </header>
+
+  
+
+  <footer>
+  {{ if .Truncated }}
+  <!-- <a href='{{ .Permalink }}'>  
+  <span class="btn  btn-outline-primary">{{ i18n "readMore" . }} <span class="screen-reader-text">{{ i18n "readMoreOn" }} {{ .Title }}</span><span class="meta-nav"> »</span></span>
+  </a> -->
+  {{ end }}
+  </footer>
+</article>
