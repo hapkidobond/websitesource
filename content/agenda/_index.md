@@ -1,10 +1,6 @@
 ---
 title: "Agenda"
 ---
-
-
-
-
 <table border="0" style="width: 604px;" cellspacing="5" cellpadding="5">
 <tbody>
 <tr>
@@ -170,4 +166,4 @@ title: "Agenda"
 <td>12:00-17:00</td>
 </tr>
 </tbody>
-</table></div></div></article></div>
+</table>
