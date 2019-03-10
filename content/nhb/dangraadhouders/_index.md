@@ -86,6 +86,17 @@ title: "Dangraadhouders"
 <p>Instructor</p>
 </td>
 </tr>
+<tr>
+<td style="width: 190px;" align="left" valign="middle">
+<p>Louk Franken</p>
+</td>
+<td style="width: 190px;" align="left" valign="middle">
+<p><span style="color: #000000;">Hapkido Oirschot</span></p>
+</td>
+<td style="width: 190px;" align="left" valign="middle">
+<p><span style="color: #000000;">Master instructor</span>&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr />
@@ -106,13 +117,13 @@ title: "Dangraadhouders"
 </tr>
 <tr>
 <td style="width: 190px;" align="left" valign="middle">
-<p>Louk Franken</p>
+<p>Jiewan Sewdoelare</p>
 </td>
 <td style="width: 190px;" align="left" valign="middle">
-<p><span style="color: #000000;">Hapkido Oirschot</span></p>
+<p><span style="color: #000000;">Yashindo</span></p>
 </td>
 <td style="width: 190px;" align="left" valign="middle">
-<p><span style="color: #000000;">Master instructor</span>&nbsp;</p>
+<p><span style="color: #000000;">Instructor</span>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -136,16 +147,18 @@ title: "Dangraadhouders"
 <tr>
 <td style="width: 190px;" align="left" valign="middle">
 <p><span style="color: #000000;">Ramon van Bemmel</span></p>
-<p><span>Jiewan Sewdoelare</span></p>
 <p>Stefan van Gestel</p>
 <p>Sigwin Schlotter</p>
 <p>Tom Nijholt</p>
+<p>Mauricio Pouw</p>
+<p>Oscar Dijk</p>
 </td>
 <td style="width: 190px;" align="left" valign="middle">
 <p><span style="color: #000000;">Hapkido Oirschot</span></p>
 <p style="color: #000000;"><span style="color: #000000;">Yashindo</span></p>
 <p><span style="color: #000000;">Yashindo</span></p>
-<p><span style="color: #000000;">Yashindo</span></p>
+<p><span style="color: #000000;">Si Jak</span></p>
+<p><span style="color: #000000;">Si Jak</span></p>
 <p><span style="color: #000000;">Si Jak</span></p>
 </td>
 <td style="width: 190px;" align="left" valign="middle">
@@ -153,6 +166,9 @@ title: "Dangraadhouders"
 <p><span style="color: #000000;">Instructor</span></p>
 <p><span style="color: #000000;">Instructor</span>&nbsp;</p>
 <p><span style="color: #000000;">Instructor</span></p>
+<p><span style="color: #000000;">Instructor</span></p>
+<p><span style="color: #000000;">Instructor</span></p>
+
 </td>
 </tr>
 </tbody>
@@ -175,29 +191,31 @@ title: "Dangraadhouders"
 </tr>
 <tr>
 <td style="width: 190px;" align="left" valign="middle">
-<p>Mauricio Pouw</p>
 <p>Paul Tijs</p>
 <p>Vivian Hermans</p>
 <p>Geert van Kollenburg</p>
 <p>Martijn Kemps</p>
-<p>Oscar Dijk</p>
+<p>Kees Wolfert</p>
+<p>Willem Enoch</p>
+<p>Ricky van Stijn</p>
 </td>
 <td style="width: 190px;" align="left" valign="middle">
+<p>Hapkido Oirschot</p>
+<p>Hapkido Oirschot</p>
+<p>Hapkido Oirschot</p>
+<p>Hapkido Oirschot</p>
 <p>Si Jak</p>
-<p>Hapkido Oirschot</p>
-<p>Hapkido Oirschot</p>
-<p>Hapkido Oirschot</p>
-<p>Hapkido Oirschot</p>
-<p><span style="color: #000000;"><span style="color: #000000;">Si Jak</span></span></p>
-<p>&nbsp;</p>
+<p>Enoch Martial Arts</p>
+<p>Enoch Martial Arts</p>
 </td>
-<td style="width: 190px;" align="left" valign="middle">
-<p><span></span><span style="color: #000000;">Instructor</span></p>
+<td style="width: 190px;" align="left" valign="top">
 <p><span style="color: #000000;">Assistant instructor</span></p>
 <p><span style="color: #000000;">Assistant instructor</span></p>
 <p><span style="color: #000000;">Assistant instructor</span></p>
 <p><span style="color: #000000;">Assistant instructor</span></p>
 <p><span style="color: #000000;">Assistant instructor</span></p>
+
+
 </td>
 </tr>
 </tbody>
