@@ -12,7 +12,7 @@ DefaultContentLanguage = "en" # current values: "en" or "de"
 
 # To enable a demo of pagination, this value is set to 2 instead of the default. See https://gohugo.io/getting-started/configuration/
 # for all site variables. The paginate default is 10
-paginate = 2
+# paginate = 2
 
 # Google Analytics setting, see Hugo internal templates
 #googleAnalytics = "UA-123-45"
@@ -26,7 +26,7 @@ paginate = 2
     #favicon = 'img/logo_nhb.jpeg' # Add favicon, default empty
     # subtitle = "Example of Subtitle"
 
-    dateFormat = "02.01.2006" # Format dates with Go's time formatting
+    dateFormat = "23.12.2006" # Format dates with Go's time formatting
     showDate = false # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
     showNumberOfWords = false # true|false: Show number of word on article header of single content page
     hideMeta = true # Hide meta information on single pages

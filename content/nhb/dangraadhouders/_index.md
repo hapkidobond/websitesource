@@ -197,7 +197,7 @@ title: "Dangraadhouders"
 <p>Martijn Kemps</p>
 <p>Kees Wolfert</p>
 <p>Willem Enoch</p>
-<p>Ricky van Stijn</p>
+<p>Ricky van Rijn</p>
 </td>
 <td style="width: 190px;" align="left" valign="middle">
 <p>Hapkido Oirschot</p>
@@ -214,6 +214,9 @@ title: "Dangraadhouders"
 <p><span style="color: #000000;">Assistant instructor</span></p>
 <p><span style="color: #000000;">Assistant instructor</span></p>
 <p><span style="color: #000000;">Assistant instructor</span></p>
+<p><span style="color: #000000;">Instructor</span></p>
+<p><span style="color: #000000;">Instructor</span></p>
+
 
 
 </td>
